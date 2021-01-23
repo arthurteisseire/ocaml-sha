@@ -29,7 +29,6 @@ build: [
     jobs
     "@install"
     "@runtest" {with-test}
-    "@doc" {with-doc}
   ]
 ]
 dev-repo: "git+https://github.com/djs55/ocaml-sha.git"
